@@ -1,6 +1,6 @@
 # --- What's up ---
 
-I'm Tumbleweed-64, a fella who makes some cool things. I used to be into web development a lot. Now, I've used some non-web languages such as C++, C#, Java, and the like. I've realized that web development kind of sucks. Currently, though, I'm trying to learn Godot and have a game in the works and two ideas that I'll try to make after that, if I'm not too lazy. I have some other great projects coming up that you can read about below, so hopefully I'll do it all.
+I'm Tumbleweed-64, a fella who makes some cool things. I used to be into web development a lot. Now, I've used some non-web languages such as C++, C#, Java, and the like. I've realized that web development kind of sucks. Currently, though, I'm trying to learn Godot. I have a game in the works (won't be open source sorry) and two ideas that I'll try to make after that, if I'm not too lazy. I have some other great projects coming up that you can read about below, so hopefully I'll do it all.
 
 ## UPCOMING
 
@@ -9,5 +9,4 @@ I'm Tumbleweed-64, a fella who makes some cool things. I used to be into web dev
 - Maybe src for a game I'm making with Godot
 - Various utilitiess and trinkets made with C++ and Java
 - Java equivalent of dotnet command line utility if I can get it to work
-- Nautilus version 2.00
 - Linux builds of some old projects since I've switched (it's so much better)
